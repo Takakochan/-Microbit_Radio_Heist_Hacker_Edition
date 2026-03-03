@@ -6,7 +6,7 @@ Start Here
 
 USE THIS ONE! :[https://makecode.microbit.org/#tutorial:54894-13999-83062-42082]
 
-Open the MakeCode Editor: https://makecode.microbit.org/#tutorial:70018-46558-95267-78451&lockedEditor=1
+
 
 Open today’s starter template: [https://www.youtube.com/watch?v=Re3H2ISfQE8]
 

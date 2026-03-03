@@ -4,7 +4,7 @@ About Micro:bit workshop on radio communication and basic encryption, designed f
 
 Start Here
 
-USE THIS ONE! :[https://makecode.microbit.org/#tutorial:54894-13999-83062-42082]
+MakeCode link! :[https://makecode.microbit.org/#tutorial:54894-13999-83062-42082]
 
 
 
